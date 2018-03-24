@@ -1,0 +1,21 @@
+{
+  "name": "titration-solver",
+  "version": "1.0.0",
+  "description": "Solve chemistry titration problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "titration",
+    "base",
+    "acid",
+    "chemistry"
+  ],
+  "author": "Gavin Song",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "wait-for-stuff": "^1.4.0"
+  }
+}
