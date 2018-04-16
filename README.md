@@ -19,6 +19,7 @@ Weak Acid + Weak Base
 ```
 git clone https://github.com/Gavin-Song/titrtation-solver
 cd titration-solver
+npm install
 node index.js
 ```
 
